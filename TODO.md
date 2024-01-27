@@ -1,0 +1,2 @@
+- setup husky and lint-staged with commit-lint
+- do DB project
